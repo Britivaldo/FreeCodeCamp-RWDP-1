@@ -1,0 +1,33 @@
+#main {
+    background: #eee;
+    border-radius: 5px;
+    padding: 15px;
+  }
+  #image {
+    width: 100%;
+    height: auto;
+    max-width: 625px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  #title, #subTitle, #img-caption {
+    text-align: center;
+  }
+  #tribute-info {
+    width: 50%;
+    margin: auto;
+    text-align: justify;
+  }
+  #tribute-info p {
+    padding: 4%;
+  }
+  h3 {
+    text-align: center;
+  }
+  ul {
+    text-align: justify;
+  }
+  ul li {
+    padding-top: 20px;
+  }
